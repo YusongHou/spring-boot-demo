@@ -272,7 +272,5 @@ public class UserMapperTest extends SpringBootDemoOrmMybatisApplicationTests {
 ## 参考
 
 - Mybatis官方文档：http://www.mybatis.org/mybatis-3/zh/index.html
-
 - Mybatis官方脚手架文档：http://www.mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/
-
 - Mybatis整合Spring Boot官方demo：https://github.com/mybatis/spring-boot-starter/tree/master/mybatis-spring-boot-samples

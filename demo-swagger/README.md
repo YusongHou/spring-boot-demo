@@ -238,7 +238,5 @@ public class ApiResponse<T> implements Serializable {
 ## 参考
 
 1. swagger 官方网站：https://swagger.io/
-
 2. swagger 官方文档：https://github.com/swagger-api/swagger-core/wiki/Swagger-2.X---Getting-started
-
 3. swagger 常用注解：https://github.com/swagger-api/swagger-core/wiki/Swagger-2.X---Annotations

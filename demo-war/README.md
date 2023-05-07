@@ -94,4 +94,3 @@ public class SpringBootDemoWarApplication extends SpringBootServletInitializer {
 ## 参考
 
 https://docs.spring.io/spring-boot/docs/2.1.0.RELEASE/reference/htmlsingle/#howto-create-a-deployable-war-file
-

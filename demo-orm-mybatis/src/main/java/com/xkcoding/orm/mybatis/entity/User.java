@@ -1,12 +1,19 @@
 package com.xkcoding.orm.mybatis.entity;
 
+import com.xkcoding.orm.mybatis.mapper.UserMapper;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 
+import java.io.IOException;
+import java.io.InputStream;
 import java.io.Serializable;
 import java.util.Date;
+import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * <p>
